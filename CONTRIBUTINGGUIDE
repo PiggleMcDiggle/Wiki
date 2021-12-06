@@ -1,0 +1,2 @@
+1.  The log() function is summarily banned.  Use something sensible.
+2.  Users of String.ToInt() will be deleted.
